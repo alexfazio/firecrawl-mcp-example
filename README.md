@@ -59,3 +59,10 @@ Features:
 ## License
 
 MIT License
+
+## Video Tweet
+
+<blockquote class="twitter-tweet" data-lang="en">
+  <a href="https://x.com/alxfazio/status/1901690377364476400"></a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
