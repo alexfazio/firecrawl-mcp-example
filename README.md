@@ -60,4 +60,4 @@ Features:
 
 MIT License
 
-[![Watch the video](https://i.imgur.com/E5hfFIz.png)](https://x.com/alxfazio/status/1791863931931078719)
+[![Watch the video](https://i.imgur.com/E5hfFIz.png)](https://x.com/alxfazio/status/1901690377364476400)
